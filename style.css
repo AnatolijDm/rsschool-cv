@@ -51,3 +51,10 @@ body {
 .textAlign {
     text-align: right;
 }
+
+blockquote {
+    font-size: 15px;
+    padding-top: 10px;
+    background-color: rgb(6, 37, 3);
+    color: yellowgreen;
+}
