@@ -31,3 +31,23 @@ body {
     font-weight: bold;
     text-align: right;
 }
+
+.italic {
+    color: rgb(10, 88, 82);
+    font-style: italic;
+    text-align: right;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.cvArticle {
+    font-style: italic;
+    font-size: 18px;
+    color: black;
+}
+
+.textAlign {
+    text-align: right;
+}
