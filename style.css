@@ -1,0 +1,33 @@
+.wrapper {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+body {
+    background-color: rgb(166, 233, 233);
+}
+
+.head {
+    font-size: 30px;
+    text-align: left;
+    line-height: 100px;
+    border: 1px solid brown;
+    padding-top: 20px;
+    padding-left: 20px;
+    background-color: rgb(9, 19, 41);
+    color: white;
+}
+
+#myPhoto {
+    text-align: left;
+    background-image: url("./Main.png");
+    background-repeat: no-repeat;
+    background-size: 824px 250px;
+    margin-left: 100px;
+}
+
+.myName {
+    color: rgb(63, 14, 95);
+    font-weight: bold;
+    text-align: right;
+}
