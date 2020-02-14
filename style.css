@@ -58,3 +58,8 @@ blockquote {
     background-color: rgb(6, 37, 3);
     color: yellowgreen;
 }
+
+.cvArticle a {
+    font-style: normal;
+    padding-left: 15px;
+}
